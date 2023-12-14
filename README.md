@@ -1,3 +1,3 @@
 # FriendshipLamp
  
-![NTI Banner](NTIBanner.png)
+![NTI Banner](NTIB.png)
