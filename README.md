@@ -1,3 +1,3 @@
-# FriendshipLamp
+# Luminal Nexus
  
 ![NTI Banner](NTIB.png)
